@@ -9,22 +9,22 @@ from tkinter import*
 import random
 
 switch = {
-    'b': {'R': 'eg', 'B': 'afc'},
-    'a': {'R': 'be', 'B': 'f'},
-    'c': {'R': 'bgd', 'B': 'fh'},
-    'd': {'R': 'g', 'B': 'ch'},
-    'e': {'R': 'bj', 'B': 'afi'},
-    'f': {'R': 'begj', 'B': 'acik'},
-    'g': {'R': 'bdjl', 'B': 'cfhk'},
-    'h': {'R': 'dgl', 'B': 'ck'},
-    'i': {'R': 'ejm', 'B': 'fn'},
-    'j': {'R': 'egmo', 'B': 'fikn'},
-    'k': {'R': 'gjlo', 'B': 'fhnp'},
-    'l': {'R': 'go', 'B': 'hkp'},
-    'm': {'R': 'j', 'B': 'in'},
-    'n': {'R': 'mjo', 'B': 'ik'},
-    'o': {'R': 'jl', 'B': 'nkp'},
-    'p': {'R': 'lo', 'B': 'k'},
+    'a': {'B': 'be', 'R': 'f'},
+    'b': {'B': 'eg', 'R': 'afc'},
+    'c': {'B': 'bgd', 'R': 'fh'},
+    'd': {'B': 'g', 'R': 'ch'},
+    'e': {'B': 'bj', 'R': 'afi'},
+    'f': {'B': 'begj', 'R': 'acik'},
+    'g': {'B': 'bdjl', 'R': 'cfhk'},
+    'h': {'B': 'dgl', 'R': 'ck'},
+    'i': {'B': 'ejm', 'R': 'fn'},
+    'j': {'B': 'egmo', 'R': 'fikn'},
+    'k': {'B': 'gjlo', 'R': 'fhnp'},
+    'l': {'B': 'go', 'R': 'hkp'},
+    'm': {'B': 'j', 'R': 'in'},
+    'n': {'B': 'mjo', 'R': 'ik'},
+    'o': {'B': 'jl', 'R': 'nkp'},
+    'p': {'B': 'lo', 'R': 'k'},
 }
 
 
