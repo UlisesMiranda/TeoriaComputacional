@@ -17,7 +17,7 @@ def main():
         print("El servidor esta encendido")
         print("->Generando cadenas...")
         
-        gca.genCadenasAleatoriasBin(64, 1000000, mensajeFile)
+        gca.genCadenasAleatoriasBin(14, 10, mensajeFile)
         
         print("Cadenas generadas")
         print("Enviando mensaje")

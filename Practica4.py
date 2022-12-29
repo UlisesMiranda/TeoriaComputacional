@@ -7,6 +7,9 @@ import time
 from strgen import StringGenerator
 from tkinter import*
 import random
+import networkx as nx
+import matplotlib.pyplot as plt
+import graphviz
 
 switch = {
     'a': {'B': 'be', 'R': 'f'},
@@ -42,9 +45,12 @@ def chess(path, estadoInicial: str, id: str):
     fileRutasPosibles = open(f'rutasPosibles{id}.txt', 'a')
     fileRutasGanadoras = open(f'rutasGanadoras{id}.txt', 'a')
     listSize = 0
+    
+    rutas = []
 
     for i, r in enumerate(routes(estadoInicial, path), 1):
         fileRutasPosibles.write(str(r) + '\n')
+        rutas.append(list(r))
 
         if (id == 'Ply1' and r[-1] == 'p'):
             fileRutasGanadoras.write(str(r) + '\n')
@@ -55,6 +61,8 @@ def chess(path, estadoInicial: str, id: str):
 
     fileRutasGanadoras.close()
     fileRutasPosibles.close()
+    
+    graficarRuta(rutas, id)
 
     return listSize
 
@@ -98,6 +106,20 @@ def recorridoRutasGanadoras(rutaJugadorInicial: list, rutaJugadorSecundario: lis
             return "secundario"
     return "principal"
 
+def graficarRuta(rutas, id):
+    
+    # Creamos un grafo
+    g = graphviz.Digraph()
+
+    # Agregamos los nodos y las aristas a partir de las rutas
+    for ruta in rutas:
+        for nodo in ruta:
+            g.node(nodo)
+        for i in range(len(ruta)-1):
+            g.edge(ruta[i], ruta[i+1])
+
+    # Renderizamos el grafo
+    g.render(format='png', filename=f'grafo{id}')
 
 def game(modoJuego: int, dosJugadores: bool, ):
     listSize1 = 0

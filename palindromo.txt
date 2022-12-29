@@ -1,0 +1,17 @@
+Regla seleccionada: P -> 1P1
+Regla seleccionada: P -> 1P1
+Regla seleccionada: P -> 1P1
+Regla seleccionada: P -> 1P1
+Regla seleccionada: P -> 1P1
+Regla seleccionada: P -> 0P0
+Regla seleccionada: P -> 1P1
+Regla seleccionada: P -> 0P0
+Regla seleccionada: P -> 0P0
+Regla seleccionada: P -> 1P1
+Regla seleccionada: P -> 1P1
+Regla seleccionada: P -> 1P1
+Regla seleccionada: P -> 1P1
+Regla seleccionada: P -> 1P1
+Regla seleccionada: P -> 0
+Regla seleccionada: P -> 1
+Cadena resultante: 111110100111110111111001011111
