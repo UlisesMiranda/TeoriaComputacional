@@ -1,0 +1,4041 @@
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: r
+Estado actual: 10	Recibe letra: i
+Estado actual: 18	Recibe letra: p
+Estado actual: 26	Recibe letra: e
+Estado actual: 34	Recibe letra:  
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: v
+Estado actual: 14	Recibe letra: i
+Estado actual: 22	Recibe letra: d
+Estado actual: 30	Recibe letra: -
+Estado actual: 1	Recibe letra: 1
+Estado actual: 1	Recibe letra: 9
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: f
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: f
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: q
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: u
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ­
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: b
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ©
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: i
+Estado actual: 8	Recibe letra: f
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: .
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: r
+Estado actual: 10	Recibe letra: i
+Estado actual: 18	Recibe letra: p
+Estado actual: 26	Recibe letra: e
+Estado actual: 34	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: u
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: v
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: f
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: z
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: f
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: v
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: .
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: o
+Estado actual: 9	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: v
+Estado actual: 14	Recibe letra: i
+Estado actual: 22	Recibe letra: d
+Estado actual: 30	Recibe letra: -
+Estado actual: 1	Recibe letra: 1
+Estado actual: 1	Recibe letra: 9
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: u
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: r
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: v
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: -
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: v
+Estado actual: 14	Recibe letra: -
+Estado actual: 1	Recibe letra: 2
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: h
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: n
+Estado actual: 13	Recibe letra: v
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: o
+Estado actual: 9	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: l
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: b
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: .
+Estado actual: 1	Recibe letra: 
+
+Estado actual: 1	Recibe letra: 
+
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ­
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: r
+Estado actual: 10	Recibe letra: i
+Estado actual: 18	Recibe letra: p
+Estado actual: 26	Recibe letra: e
+Estado actual: 34	Recibe letra:  
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: l
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: f
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: b
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: l
+Estado actual: 11	Recibe letra: e
+Estado actual: 19	Recibe letra: n
+Estado actual: 27	Recibe letra: t
+Estado actual: 35	Recibe letra: u
+Estado actual: 40	Recibe letra: r
+Estado actual: 45	Recibe letra: a
+Estado actual: 50	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: o
+Estado actual: 9	Recibe letra: l
+Estado actual: 17	Recibe letra: o
+Estado actual: 25	Recibe letra: r
+Estado actual: 33	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: b
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: z
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: o
+Estado actual: 9	Recibe letra: l
+Estado actual: 17	Recibe letra: o
+Estado actual: 25	Recibe letra: r
+Estado actual: 33	Recibe letra:  
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: u
+Estado actual: 7	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: n
+Estado actual: 12	Recibe letra: s
+Estado actual: 20	Recibe letra: a
+Estado actual: 28	Recibe letra: n
+Estado actual: 36	Recibe letra: c
+Estado actual: 41	Recibe letra: i
+Estado actual: 46	Recibe letra: o
+Estado actual: 51	Recibe letra:  
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: .
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: b
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ©
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: u
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ­
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: m
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: n
+Estado actual: 13	Recibe letra: g
+Estado actual: 4	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ³
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: i
+Estado actual: 8	Recibe letra: f
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: u
+Estado actual: 7	Recibe letra: l
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: .
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: s
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: r
+Estado actual: 10	Recibe letra: a
+Estado actual: 1	Recibe letra: v
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: u
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: m
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: m
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ­
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: f
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: r
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: ã
+Estado actual: 1	Recibe letra: ­
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra:  
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: l
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: .
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: o
+Estado actual: 9	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ­
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: v
+Estado actual: 14	Recibe letra: i
+Estado actual: 22	Recibe letra: d
+Estado actual: 30	Recibe letra: -
+Estado actual: 1	Recibe letra: 1
+Estado actual: 1	Recibe letra: 9
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: l
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: f
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: b
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: n
+Estado actual: 12	Recibe letra: s
+Estado actual: 20	Recibe letra: a
+Estado actual: 28	Recibe letra: n
+Estado actual: 36	Recibe letra: c
+Estado actual: 41	Recibe letra: i
+Estado actual: 46	Recibe letra: o
+Estado actual: 51	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: o
+Estado actual: 9	Recibe letra: l
+Estado actual: 17	Recibe letra: o
+Estado actual: 25	Recibe letra: r
+Estado actual: 33	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: b
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: z
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: o
+Estado actual: 9	Recibe letra: l
+Estado actual: 17	Recibe letra: o
+Estado actual: 25	Recibe letra: r
+Estado actual: 33	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: i
+Estado actual: 8	Recibe letra: f
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: u
+Estado actual: 7	Recibe letra: l
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: .
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: b
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ©
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: u
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ­
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: m
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: i
+Estado actual: 8	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ¡
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: v
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ³
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: .
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: s
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: r
+Estado actual: 10	Recibe letra: a
+Estado actual: 1	Recibe letra: v
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: u
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ­
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: f
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: º
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ³
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: l
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: .
+Estado actual: 1	Recibe letra: 
+
+Estado actual: 1	Recibe letra: 
+
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: n
+Estado actual: 13	Recibe letra: t
+Estado actual: 21	Recibe letra: a
+Estado actual: 29	Recibe letra: g
+Estado actual: 37	Recibe letra: i
+Estado actual: 42	Recibe letra: o
+Estado actual: 47	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: r
+Estado actual: 10	Recibe letra: i
+Estado actual: 18	Recibe letra: p
+Estado actual: 26	Recibe letra: e
+Estado actual: 34	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: u
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: v
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ©
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: o
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ­
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: u
+Estado actual: 7	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: h
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: b
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: .
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: v
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: b
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: v
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: v
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: f
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: v
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: ã
+Estado actual: 1	Recibe letra: ­
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: n
+Estado actual: 13	Recibe letra: t
+Estado actual: 21	Recibe letra: r
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: f
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: n
+Estado actual: 13	Recibe letra: t
+Estado actual: 21	Recibe letra: a
+Estado actual: 29	Recibe letra: m
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: b
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: z
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: j
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: .
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: n
+Estado actual: 13	Recibe letra: t
+Estado actual: 21	Recibe letra: a
+Estado actual: 29	Recibe letra: g
+Estado actual: 37	Recibe letra: i
+Estado actual: 42	Recibe letra: o
+Estado actual: 47	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: v
+Estado actual: 14	Recibe letra: i
+Estado actual: 22	Recibe letra: d
+Estado actual: 30	Recibe letra: -
+Estado actual: 1	Recibe letra: 1
+Estado actual: 1	Recibe letra: 9
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: u
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: v
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ©
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: n
+Estado actual: 13	Recibe letra: t
+Estado actual: 21	Recibe letra: a
+Estado actual: 29	Recibe letra: c
+Estado actual: 2	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: n
+Estado actual: 12	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: n
+Estado actual: 13	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: f
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: f
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: n
+Estado actual: 13	Recibe letra: t
+Estado actual: 21	Recibe letra: a
+Estado actual: 29	Recibe letra: m
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: n
+Estado actual: 12	Recibe letra: d
+Estado actual: 3	Recibe letra: o
+Estado actual: 9	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: b
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: z
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: j
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: .
+Estado actual: 1	Recibe letra: 
+
+Estado actual: 1	Recibe letra: 
+
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: v
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: a
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ³
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: f
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: i
+Estado actual: 8	Recibe letra: s
+Estado actual: 16	Recibe letra: t
+Estado actual: 24	Recibe letra: a
+Estado actual: 32	Recibe letra: n
+Estado actual: 39	Recibe letra: c
+Estado actual: 44	Recibe letra: i
+Estado actual: 49	Recibe letra: a
+Estado actual: 53	Recibe letra:  
+Estado actual: 1	Recibe letra: f
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ­
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: n
+Estado actual: 13	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: q
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ­
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: r
+Estado actual: 10	Recibe letra: i
+Estado actual: 18	Recibe letra: p
+Estado actual: 26	Recibe letra: e
+Estado actual: 34	Recibe letra:  
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: v
+Estado actual: 14	Recibe letra: i
+Estado actual: 22	Recibe letra: d
+Estado actual: 30	Recibe letra: -
+Estado actual: 1	Recibe letra: 1
+Estado actual: 1	Recibe letra: 9
+Estado actual: 1	Recibe letra: .
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: b
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ©
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: b
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: u
+Estado actual: 7	Recibe letra: b
+Estado actual: 15	Recibe letra: r
+Estado actual: 23	Recibe letra: e
+Estado actual: 31	Recibe letra: b
+Estado actual: 38	Recibe letra: o
+Estado actual: 43	Recibe letra: c
+Estado actual: 48	Recibe letra: a
+Estado actual: 52	Recibe letra: s
+Estado actual: 54	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: º
+Estado actual: 1	Recibe letra: b
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: u
+Estado actual: 7	Recibe letra: a
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: q
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ³
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: q
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: b
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: i
+Estado actual: 8	Recibe letra: s
+Estado actual: 16	Recibe letra: t
+Estado actual: 24	Recibe letra: a
+Estado actual: 32	Recibe letra: n
+Estado actual: 39	Recibe letra: c
+Estado actual: 44	Recibe letra: i
+Estado actual: 49	Recibe letra: a
+Estado actual: 53	Recibe letra:  
+Estado actual: 1	Recibe letra: f
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ­
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: u
+Estado actual: 7	Recibe letra: a
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: .
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: v
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: n
+Estado actual: 13	Recibe letra:  
+Estado actual: 1	Recibe letra: f
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: u
+Estado actual: 7	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: v
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: r
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: r
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: .
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: b
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ©
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: b
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: f
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: f
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: q
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: n
+Estado actual: 12	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: n
+Estado actual: 13	Recibe letra:  
+Estado actual: 1	Recibe letra: f
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: u
+Estado actual: 7	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: .
+Estado actual: 1	Recibe letra: 
+
+Estado actual: 1	Recibe letra: 
+
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ¡
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: u
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: l
+Estado actual: 11	Recibe letra: e
+Estado actual: 19	Recibe letra: s
+Estado actual: 1	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: l
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: o
+Estado actual: 9	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: i
+Estado actual: 8	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: u
+Estado actual: 7	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: v
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: j
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: .
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: u
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: l
+Estado actual: 11	Recibe letra: e
+Estado actual: 19	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: s
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ­
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: r
+Estado actual: 10	Recibe letra: i
+Estado actual: 18	Recibe letra: p
+Estado actual: 26	Recibe letra: e
+Estado actual: 34	Recibe letra:  
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: v
+Estado actual: 14	Recibe letra: i
+Estado actual: 22	Recibe letra: d
+Estado actual: 30	Recibe letra: -
+Estado actual: 1	Recibe letra: 1
+Estado actual: 1	Recibe letra: 9
+Estado actual: 1	Recibe letra: .
+Estado actual: 1	Recibe letra: 
+
+Estado actual: 1	Recibe letra: 
+
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: u
+Estado actual: 7	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: x
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: i
+Estado actual: 8	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: v
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: q
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: u
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ­
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: u
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ³
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: f
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: s
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: r
+Estado actual: 10	Recibe letra: i
+Estado actual: 18	Recibe letra: p
+Estado actual: 26	Recibe letra: e
+Estado actual: 34	Recibe letra: .
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: b
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: o
+Estado actual: 1	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: t
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: x
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: i
+Estado actual: 8	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: ã
+Estado actual: 1	Recibe letra: ­
+Estado actual: 1	Recibe letra: f
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: v
+Estado actual: 14	Recibe letra: i
+Estado actual: 22	Recibe letra: d
+Estado actual: 30	Recibe letra: -
+Estado actual: 1	Recibe letra: 1
+Estado actual: 1	Recibe letra: 9
+Estado actual: 1	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: f
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: v
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ­
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: v
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: m
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: .
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: 
+
+Estado actual: 1	Recibe letra: 
+
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: r
+Estado actual: 10	Recibe letra: i
+Estado actual: 18	Recibe letra: p
+Estado actual: 26	Recibe letra: e
+Estado actual: 34	Recibe letra:  
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: v
+Estado actual: 14	Recibe letra: i
+Estado actual: 22	Recibe letra: d
+Estado actual: 30	Recibe letra: -
+Estado actual: 1	Recibe letra: 1
+Estado actual: 1	Recibe letra: 9
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: f
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: f
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: q
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: u
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ­
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: .
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: i
+Estado actual: 8	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: v
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: a
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ³
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: f
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: u
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: b
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ³
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ©
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: i
+Estado actual: 8	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: s
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ­
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: .
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: f
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: o
+Estado actual: 9	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: b
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: º
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: t
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: z
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: u
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: i
+Estado actual: 8	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: v
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: v
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ¡
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: .
+Estado actual: 1	Recibe letra: 
+
+Estado actual: 1	Recibe letra: 
+
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ¡
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: v
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: u
+Estado actual: 7	Recibe letra: n
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ³
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: n
+Estado actual: 13	Recibe letra: t
+Estado actual: 21	Recibe letra: r
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: r
+Estado actual: 10	Recibe letra: i
+Estado actual: 18	Recibe letra: p
+Estado actual: 26	Recibe letra: e
+Estado actual: 34	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: n
+Estado actual: 13	Recibe letra:  
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: m
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: .
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: v
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: u
+Estado actual: 7	Recibe letra: n
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ³
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: n
+Estado actual: 13	Recibe letra: t
+Estado actual: 21	Recibe letra: r
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: r
+Estado actual: 10	Recibe letra: i
+Estado actual: 18	Recibe letra: p
+Estado actual: 26	Recibe letra: e
+Estado actual: 34	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: u
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: r
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: f
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra:  
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: h
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: z
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: .
+Estado actual: 1	Recibe letra: 
+
+Estado actual: 1	Recibe letra: 
+
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: u
+Estado actual: 7	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: v
+Estado actual: 14	Recibe letra: i
+Estado actual: 22	Recibe letra: d
+Estado actual: 30	Recibe letra: -
+Estado actual: 1	Recibe letra: 1
+Estado actual: 1	Recibe letra: 9
+Estado actual: 1	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: t
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: v
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: u
+Estado actual: 7	Recibe letra: n
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ¡
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: o
+Estado actual: 9	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: i
+Estado actual: 8	Recibe letra: s
+Estado actual: 16	Recibe letra: t
+Estado actual: 24	Recibe letra: r
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: b
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: v
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: i
+Estado actual: 8	Recibe letra: a
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: l
+Estado actual: 11	Recibe letra: e
+Estado actual: 19	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: b
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: u
+Estado actual: 7	Recibe letra: ã
+Estado actual: 1	Recibe letra: ¡
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: o
+Estado actual: 9	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: v
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: u
+Estado actual: 7	Recibe letra: n
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: .
+Estado actual: 1	Recibe letra: 
+
+Estado actual: 1	Recibe letra: 
+
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: n
+Estado actual: 13	Recibe letra: c
+Estado actual: 2	Recibe letra: l
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ³
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: b
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: h
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: i
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: u
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: i
+Estado actual: 8	Recibe letra: s
+Estado actual: 16	Recibe letra: t
+Estado actual: 24	Recibe letra: a
+Estado actual: 32	Recibe letra: n
+Estado actual: 39	Recibe letra: c
+Estado actual: 44	Recibe letra: i
+Estado actual: 49	Recibe letra: a
+Estado actual: 53	Recibe letra: m
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: u
+Estado actual: 7	Recibe letra: b
+Estado actual: 15	Recibe letra: r
+Estado actual: 23	Recibe letra: e
+Estado actual: 31	Recibe letra: b
+Estado actual: 38	Recibe letra: o
+Estado actual: 43	Recibe letra: c
+Estado actual: 48	Recibe letra: a
+Estado actual: 52	Recibe letra: s
+Estado actual: 54	Recibe letra:  
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: v
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: u
+Estado actual: 7	Recibe letra: n
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: v
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: a
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ³
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: f
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: m
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: r
+Estado actual: 10	Recibe letra: i
+Estado actual: 18	Recibe letra: p
+Estado actual: 26	Recibe letra: e
+Estado actual: 34	Recibe letra:  
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: v
+Estado actual: 14	Recibe letra: i
+Estado actual: 22	Recibe letra: d
+Estado actual: 30	Recibe letra: -
+Estado actual: 1	Recibe letra: 1
+Estado actual: 1	Recibe letra: 9
+Estado actual: 1	Recibe letra: .
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: b
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ³
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ©
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: i
+Estado actual: 8	Recibe letra: c
+Estado actual: 2	Recibe letra: a
+Estado actual: 5	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ­
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: ,
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: u
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: i
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: y
+Estado actual: 1	Recibe letra: u
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: o
+Estado actual: 6	Recibe letra: n
+Estado actual: 13	Recibe letra: t
+Estado actual: 21	Recibe letra: r
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: l
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: o
+Estado actual: 1	Recibe letra: p
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: g
+Estado actual: 4	Recibe letra: a
+Estado actual: 1	Recibe letra: c
+Estado actual: 2	Recibe letra: i
+Estado actual: 1	Recibe letra: ã
+Estado actual: 1	Recibe letra: ³
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: t
+Estado actual: 1	Recibe letra: a
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra:  
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: n
+Estado actual: 1	Recibe letra: f
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: r
+Estado actual: 1	Recibe letra: m
+Estado actual: 1	Recibe letra: e
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: a
+Estado actual: 1	Recibe letra: d
+Estado actual: 3	Recibe letra: e
+Estado actual: 1	Recibe letra: s
+Estado actual: 1	Recibe letra: .
